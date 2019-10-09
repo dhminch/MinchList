@@ -20,7 +20,8 @@ Listed in order of preference, but if I find it worth listening to if I listed i
 - *Darknet Diaries* - Only stories, but you can learn something from a good story!
 - *Security Weekly* (and other shows on the network) - Good discussions, but frequently overly raunchy and off-topic.
 
-- *Security Now* - Accessible to the less technical, but also frequently wrong, with annoying ads.
+
+In my opinion, you should avoid *Security Now*. While it is more accessible to newcomers, the hosts are frequently wrong and it is hard to know that they're wrong unless you have more experience.
 
 ### National Security
 
