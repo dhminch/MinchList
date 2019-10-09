@@ -37,7 +37,7 @@ Listed in order of preference, but I find them all good:
 
 ## Whitepapers
 
-*Resilient Military Systems and the Advanced Cyber Threat* by Defense Science Board - 2013 report on US military systems, referenced frequently for it's threat tier system. [OSD DSB](https://dsb.cto.mil/reports/2010s/ResilientMilitarySystemsCyberThreat.pdf)
+*Resilient Military Systems and the Advanced Cyber Threat* by Defense Science Board - Report on cyber vulnerabilities in US military systems, referenced frequently for it's threat tier system. It's from 2013, but still relevant. [OSD DSB](https://dsb.cto.mil/reports/2010s/ResilientMilitarySystemsCyberThreat.pdf)
 
 *APT1* by FireEye/Mandiant - Original report calling out a specific Chinese military organization as a persistent threat actor. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf)
 
