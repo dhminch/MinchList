@@ -123,3 +123,15 @@ Nearly all these conferences post video recordings of the talks on YouTube. You 
 
 - [Kali](https://kali.org) - Linux distribution commonly used for penetration testing and CTFs.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Toolset for extracting and operating on data, great for CTFs and work too.
+
+## Certifications
+
+My friend summed this up perfectly, so I'm just going to quote him: *Certifications help honest people validate their knowledge and skills, and help dishonest people gain an undeserving edge over others when competing for a position within a company, which in turn devalues the cert and oversaturates the job market with what would otherwise be prestigious career achievements.*
+
+I agree, most certifications are not worth that much *as a credential* because too many unqualified people have them. However, the training courses for the certifications may help you, especially if you are new to the field.
+
+Popular entry level certifications are: CompTIA's Network+ and Security+ and EC-Council's Certified Ethical Hacker (CEH). SANS provides very expensive, but good training and their certificates are better, such as GCIH. ISC2's CISSP is a more managerial level of certification and is usually what gets the most eye rolls.
+
+Offensive Security's OSCP and OSCE are typically the most well-regarded. To pass, you take a multi-day exam in a lab environment so it is orders of magnitude more difficult than any other certification. However, Offensive Security now requires you to be subject to a lot of monitoring (software/video/audio) while taking the exam, which makes people less wild about the experience.
+
+All in all, certifications may help you. HR loves them, hiring managers may/may not. It depends on the company and industry you are in. I wouldn't put crazy amounts of your time/money into them, but I wouldn't avoid them either.
