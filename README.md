@@ -65,6 +65,15 @@ Listed in order of preference, but I find them all good:
 
 Palo Alto Cybersecurity Cannon - Curated list of great cybersecurity books, updated yearly. [Palo Alto](https://cybercanon.paloaltonetworks.com/)
 
+## Movies
+
+For the fun and hacker culture points:
+
+- [Hackers](https://www.imdb.com/title/tt0113243/)
+- [Sneakers](https://www.imdb.com/title/tt0105435/)
+- [Swordfish](https://www.imdb.com/title/tt0244244/)
+- [War Games](https://www.imdb.com/title/tt0086567/)
+
 ## Conferences
 
 There are many popular conferences that may be worth attending. Each one has a different feel - some are more business oriented (i.e., vendors selling products) and others are more hacker oriented (i.e., focus is on the tech and hacking/defending things). Both are good and necessary, just different vibes.
@@ -102,9 +111,3 @@ Nearly all these conferences post video recordings of the talks on YouTube. You 
 
 - [Kali](https://kali.org) - Linux distribution commonly used for penetration testing and CTFs
 - [CyberChef](https://gchq.github.io/CyberChef/) - Toolset for extracting and operating on data, great for CTFs and work too.
-
-## Movies
-
-- War Games
-- Sneakers
-- Hackers
