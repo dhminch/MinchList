@@ -58,7 +58,7 @@ Listed in order of preference, but I find them all good:
 - [SpecterOps Blog](https://posts.specterops.io/)
 - [Cobalt Strike Blog](https://blog.cobaltstrike.com/)
 - [ropnop](https://blog.ropnop.com/)
-- [Thoughts on Cryptographiuc Engineering](https://blog.cryptographyengineering.com/)
+- [Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/)
 
 ## Books
 
