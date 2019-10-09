@@ -77,13 +77,11 @@ There are many popular conferences that may be worth attending. Each one has a d
 
 Nearly all these conferences post video recordings of the talks on YouTube. You can look through old conference schedules to see what seems interesting and then search YouTube for the talk title.
 
-## Training
-
-### CTFs
+## Capture the Flag (CTF) Events
 - [Holiday Hack Challenge](https://holidayhackchallenge.com/past-challenges/) - SANS runs a CTF every December for prizes, but the previous challenges are still running and fun.
 - Many conferences and universities have CTFs, some require you to be there, others are remote. 
 
-### Practice VMs
+## Practice Virtual Machines (VMs)
 
 ***If you download an intentionally vulnerable virtual machine (VM), it is your responsibility to make sure that this VM is not accessible to the Internet. It's best to not even expose this VM to an internal home network. The safest way is to use an host internal network, so the vulnerable VM can only be accessed by other VMs on the system.***
 
