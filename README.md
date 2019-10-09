@@ -55,6 +55,14 @@ Listed in order of preference, but I find them all good:
 
 *The Cuckoo's Egg* by Chris Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library
 
+*The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford - Story of how DevOps can improve IT and how security needs to worth with a business, not against it. [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) or your local library
+
+*Visual Intelligence* by Amy Herman - Helps you understand how you percieve things and how to improve your ability to see little details. While it does not talk about cybersecurity at all, it still helps teach you a relevant skill. [Amazon](https://www.amazon.com/Visual-Intelligence-Sharpen-Perception-Change/dp/0544947126) or your local library
+
+*Hacking: The Art of Exploitation* by Jon Erickson - How hacking works, with a focus on memory corruption exploits. While memory corruption exploits are more difficult to use, this is still a good book to understand the foundations of exploiting a system. [Amazon](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
+
+*The Hacker Playbook 3* by Peter Kim - Tactics for attacking as a penetration tester. [Amazon](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/)
+
 Palo Alto Cybersecurity Cannon - Curated list of great cybersecurity books, updated yearly. [Palo Alto](https://cybercanon.paloaltonetworks.com/)
 
 ## Conferences
