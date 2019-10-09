@@ -37,33 +37,33 @@ Listed in order of preference, but I find them all good:
 
 ## Whitepapers
 
-*Resilient Military Systems and the Advanced Cyber Threat* by Defense Science Board - Report on cyber vulnerabilities in US military systems, referenced frequently for it's threat tier system. It's from 2013, but still relevant. [OSD DSB](https://dsb.cto.mil/reports/2010s/ResilientMilitarySystemsCyberThreat.pdf)
+*Resilient Military Systems and the Advanced Cyber Threat* by Defense Science Board - Report on cyber vulnerabilities in US military systems, referenced frequently for it's threat tier system. It's from 2013, but still relevant. [OSD DSB](https://dsb.cto.mil/reports/2010s/ResilientMilitarySystemsCyberThreat.pdf).
 
-*APT1* by FireEye/Mandiant - Original report calling out a specific Chinese military organization as a persistent threat actor. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf)
+*APT1* by FireEye/Mandiant - Original report calling out a specific Chinese military organization as a persistent threat actor. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf).
 
-*DBIR* by Verizon - Annual report on the state of how criminals/APTs are getting in and what their goals are. [Verizon](http://www.verizonenterprise.com/verizon-insights-lab/dbir/)
+*DBIR* by Verizon - Annual report on the state of how criminals/APTs are getting in and what their goals are. [Verizon](http://www.verizonenterprise.com/verizon-insights-lab/dbir/).
 
 ## Websites
 
-*OWASP Top Ten* by OWASP - The most common and critical web application vulnerabilities. [OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+*OWASP Top Ten* by OWASP - The most common and critical web application vulnerabilities. [OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project).
 
-*ATT&CK* by MITRE - A common language for identifying how attackers operate, particularly useful for defenders trying to understand what gaps they have. [MITRE](https://attack.mitre.org/)
+*ATT&CK* by MITRE - A common language for identifying how attackers operate, particularly useful for defenders trying to understand what gaps they have. [MITRE](https://attack.mitre.org/).
 
 ## Books
 
-*Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon (2015)*	by Kim Zetter - Great context and story about Stuxnet and other malware. Extremely eye-opening and is the perfect real-world example to contradict people saying "no one could do that." [Amazon](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196) or your local library
+*Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon (2015)*	by Kim Zetter - Great context and story about Stuxnet and other malware. Extremely eye-opening and is the perfect real-world example to contradict people saying "no one could do that." [Amazon](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196) or your local library.
 
-*The Cuckoo's Egg* by Chris Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library
+*The Cuckoo's Egg* by Chris Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library.
 
-*The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford - Story of how DevOps can improve IT and how security needs to worth with a business, not against it. [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) or your local library
+*The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford - Story of how DevOps can improve IT and how security needs to worth with a business, not against it. [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) or your local library.
 
-*Visual Intelligence* by Amy Herman - Helps you understand how you percieve things and how to improve your ability to see little details. While it does not talk about cybersecurity at all, it still helps teach you a relevant skill. [Amazon](https://www.amazon.com/Visual-Intelligence-Sharpen-Perception-Change/dp/0544947126) or your local library
+*Visual Intelligence* by Amy Herman - Helps you understand how you percieve things and how to improve your ability to see little details. While it does not talk about cybersecurity at all, it still helps teach you a relevant skill. [Amazon](https://www.amazon.com/Visual-Intelligence-Sharpen-Perception-Change/dp/0544947126) or your local library.
 
-*Hacking: The Art of Exploitation* by Jon Erickson - How hacking works, with a focus on memory corruption exploits. While memory corruption exploits are more difficult to use, this is still a good book to understand the foundations of exploiting a system. [Amazon](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
+*Hacking: The Art of Exploitation* by Jon Erickson - How hacking works, with a focus on memory corruption exploits. While memory corruption exploits are more difficult to use, this is still a good book to understand the foundations of exploiting a system. [Amazon](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441).
 
-*The Hacker Playbook 3* by Peter Kim - Tactics for attacking as a penetration tester. [Amazon](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/)
+*The Hacker Playbook 3* by Peter Kim - Tactics for attacking as a penetration tester. [Amazon](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/).
 
-Palo Alto Cybersecurity Cannon - Curated list of great cybersecurity books, updated yearly. [Palo Alto](https://cybercanon.paloaltonetworks.com/)
+Palo Alto Cybersecurity Cannon - Curated list of great cybersecurity books, updated yearly. [Palo Alto](https://cybercanon.paloaltonetworks.com/).
 
 ## Movies
 
@@ -109,5 +109,5 @@ Nearly all these conferences post video recordings of the talks on YouTube. You 
 
 ## Tools
 
-- [Kali](https://kali.org) - Linux distribution commonly used for penetration testing and CTFs
+- [Kali](https://kali.org) - Linux distribution commonly used for penetration testing and CTFs.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Toolset for extracting and operating on data, great for CTFs and work too.
