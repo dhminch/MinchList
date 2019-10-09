@@ -49,6 +49,17 @@ Listed in order of preference, but I find them all good:
 
 *ATT&CK* by MITRE - A common language for identifying how attackers operate, particularly useful for defenders trying to understand what gaps they have. [MITRE](https://attack.mitre.org/).
 
+## Blogs / News
+
+- [Ars Technica](https://arstechnica.com/)
+- [Troy Hunt's Blog](https://www.troyhunt.com/)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [Pentest Blog](https://pentest.blog/)
+- [SpecterOps Blog](https://posts.specterops.io/)
+- [Cobalt Strike Blog](https://blog.cobaltstrike.com/)
+- [ropnop](https://blog.ropnop.com/)
+- [Thoughts on Cryptographiuc Engineering](https://blog.cryptographyengineering.com/)
+
 ## Books
 
 *Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon (2015)*	by Kim Zetter - Great context and story about Stuxnet and other malware. Extremely eye-opening and is the perfect real-world example to contradict people saying "no one could do that." [Amazon](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196) or your local library.
@@ -96,14 +107,15 @@ Nearly all these conferences post video recordings of the talks on YouTube. You 
 
 ## Capture the Flag (CTF) Events
 - [Holiday Hack Challenge](https://holidayhackchallenge.com/past-challenges/) - SANS runs a CTF every December for prizes, but the previous challenges are still running and fun.
-- Many conferences and universities have CTFs, some require you to be there, others are remote. 
+- Many conferences and universities have CTFs, some require you to be there, others are remote. [CTF Time](https://ctftime.org/) has a schedule of many CTFs going on worldwide.
 
-## Practice Virtual Machines (VMs)
+## Practice Ranges and Virtual Machines (VMs)
 
 ***If you download an intentionally vulnerable virtual machine (VM), it is your responsibility to make sure that this VM is not accessible to the Internet. It's best to not even expose this VM to an internal home network. The safest way is to use an host internal network, so the vulnerable VM can only be accessed by other VMs on the system.***
 
 - [OverTheWire](https://overthewire.org/wargames/) - Fun mini challenges, highly recommend tinkering here.
-- [Hack the Back](https://www.hackthebox.eu/) - Lab environment with many vulnerable machines. Free, but if you pay you have a better experience. Great practice range where you spend your time learning, not fussing with VMs and infrastructure.
+- [UnderTheWire](https://www.underthewire.tech/) - More fun mini challenges with PowerShell
+- [Hack the Box](https://www.hackthebox.eu/) - Lab environment with many vulnerable machines. Free, but if you pay you have a better experience. Great practice range where you spend your time learning, not fussing with VMs and infrastructure.
 - [Metasploitable 3](https://github.com/rapid7/metasploitable3) and [Metasploitable 2](https://sourceforge.net/projects/metasploitable/) - Vulnerable VMs from Rapid7. Metasploitable 3 is nice because it's a Windows target, but is more work to build.
 - [VulnHub](https://www.vulnhub.com/) - Lots of VMs, see [here](http://www.abatchy.com/2017/02/oscp-like-vulnhub-vms) and [here](https://medium.com/@a.hilton83/oscp-training-vms-hosted-on-vulnhub-com-22fa061bf6a1) for a sublist of interesting ones.
 
