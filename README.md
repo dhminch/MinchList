@@ -45,8 +45,8 @@ There are many popular conferences that may be worth attending. Each one has a d
 
 ## Tools
 
-https://kali.org - Linux distribution commonly used for penetration testing and CTFs
-https://gchq.github.io/CyberChef/ - Toolset for extracting and operating on data
+- https://kali.org - Linux distribution commonly used for penetration testing and CTFs
+- https://gchq.github.io/CyberChef/ - Toolset for extracting and operating on data
 
 ## Movies
 
