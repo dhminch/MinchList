@@ -20,7 +20,6 @@ Listed in order of preference, but if I find it worth listening to if I listed i
 - *Darknet Diaries* - Only stories, but you can learn something from a good story!
 - *Security Weekly* (and other shows on the network) - Good discussions, but frequently overly raunchy and off-topic.
 
-
 In my opinion, you should avoid *Security Now*. While it is more accessible to newcomers, the hosts are frequently wrong and it is hard to know that they're wrong unless you have more experience.
 
 ### National Security
@@ -37,11 +36,13 @@ Listed in order of preference, but I find them all good:
 
 ## Whitepapers
 
-*Resilient Military Systems and the Advanced Cyber Threat* by Defense Science Board - Report on cyber vulnerabilities in US military systems, referenced frequently for it's threat tier system. It's from 2013, but still relevant. [OSD DSB](https://dsb.cto.mil/reports/2010s/ResilientMilitarySystemsCyberThreat.pdf).
+Exploit of Hacking Team and Cayman Bank and Trust by Phineas Fisher - Write up of how a hacker exploited a exploit development firm and a bank. I'm not endorsing what he/she did, but the write ups are very good and show technical detail of how real hacking works. [Hacking Team](https://www.exploit-db.com/papers/41915), [Cayman Bank and Trust](https://pastebin.com/raw/8rXhtqgr).
 
 *APT1* by FireEye/Mandiant - Original report calling out a specific Chinese military organization as a persistent threat actor. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf).
 
 *DBIR* by Verizon - Annual report on the state of how criminals/APTs are getting in and what their goals are. [Verizon](http://www.verizonenterprise.com/verizon-insights-lab/dbir/).
+
+*Resilient Military Systems and the Advanced Cyber Threat* by Defense Science Board - Report on cyber vulnerabilities in US military systems, referenced frequently for it's threat tier system. It's from 2013, but still relevant. [OSD DSB](https://dsb.cto.mil/reports/2010s/ResilientMilitarySystemsCyberThreat.pdf).
 
 ## Websites
 
