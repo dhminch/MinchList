@@ -65,7 +65,7 @@ Exploit of Hacking Team and Cayman Bank and Trust by Phineas Fisher - Write up o
 
 *Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon (2015)*	by Kim Zetter - Great context and story about Stuxnet and other malware. Extremely eye-opening and is the perfect real-world example to contradict people saying "no one could do that." [Amazon](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196) or your local library.
 
-*The Cuckoo's Egg* by Chris Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library.
+*The Cuckoo's Egg* by Cliff Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library.
 
 *The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford - Story of how DevOps can improve IT and how security needs to worth with a business, not against it. [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) or your local library.
 
