@@ -86,6 +86,10 @@ For the fun and hacker culture points:
 - [Swordfish](https://www.imdb.com/title/tt0244244/)
 - [War Games](https://www.imdb.com/title/tt0086567/)
 
+## Online Training
+
+*The Missing Semester of Your CS Education* - Good overview of things frequently skipped in college. Make sure you know these topics, or take a moment to fill in some fundamental computer knowledge. [MIT](https://missing.csail.mit.edu/).
+
 ## Conferences
 
 There are many popular conferences that may be worth attending. Each one has a different feel - some are more business oriented (i.e., vendors selling products) and others are more hacker oriented (i.e., focus is on the tech and hacking/defending things). Both are good and necessary, just different vibes.
