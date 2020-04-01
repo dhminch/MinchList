@@ -1,10 +1,10 @@
 # Kali Build
 
-Kali is the de-facto Linux penetration testing distribution. It makes it very easy to get up and running so you're not wasting tons of time on prep.
+Kali is the de-facto Linux penetration testing distribution. It makes it very easy to get up and running so you're not wasting tons of time on prep. It is based on Debian.
 
 ## Install Kali
 
-[Get Kali](https://www.kali.org/downloads/) - I typically use the 64-bit version. The installer is for if you want to install it to media (recommended), but the Live CD is also useful.
+[Get Kali](https://www.kali.org/downloads/) - I typically use the 64-bit version. The installer is for if you want to install it to media (recommended), but the Live CD is also useful to just try things out without having to install. Xfce is now the default desktop environment (it used to be Gnome) and now a default non-root user is created during installation.
 
 Use disk encryption with a strong password, especially if this is for any sort of real testing. 
 
@@ -14,7 +14,7 @@ Kali is a rolling distribution, so updates are available all the time. The versi
 
 That said, you don't actually always need the latest and greatest for things like CTFs and conferences.
 
-To update: `apt update && apt upgrade -y`
+To update: `sudo apt update && sudo apt upgrade -y`
 
 ## Install Extra Tools
 
@@ -22,7 +22,7 @@ This is a matter of personal taste, but there are packages and 3rd party tools t
 
 ### Packages
 
-`apt update && apt install -y aircrack-ng automake autotools-dev beef-xss bless bloodhound brasero bridge-utils dhcpdump ettercap-graphical exfat-fuse file-roller filezilla filezilla-common freetds-bin freetds-common freetds-dev freerdp-x11 gdebi gedit gobuster gparted gvfs-fuse htop ipv6toolkit isc-dhcp-server libical-dev libncurses5 libpam-winbind libpam0g libreoffice linux-libc-dev mimikatz nethogs netsed p7zip p7zip-rar powersploit pure-ftpd rar responder rinetd screen seclists sqsh ssdeep sshfs sshpass swig3.0 terminator tftpd thc-ipv6 tmux unace unrar unzip usbip veil veil-catapult veil-evasion webshells wmis zip`
+`sudo apt update && sudo apt install -y aircrack-ng automake autotools-dev beef-xss bless bloodhound brasero bridge-utils dhcpdump ettercap-graphical exfat-fuse file-roller filezilla filezilla-common freetds-bin freetds-common freetds-dev freerdp2-x11 gdebi gedit gobuster gparted gvfs-fuse htop ipv6toolkit isc-dhcp-server libical-dev libncurses5 libpam-winbind libpam0g libreoffice linux-libc-dev mimikatz nethogs netsed p7zip p7zip-rar powersploit pure-ftpd rar responder rinetd screen seclists sqsh ssdeep sshfs sshpass terminator tftpd thc-ipv6 tmux unace unrar unzip usbip veil veil-catapult veil-evasion webshells wmis zip`
 
 Some noteable items:
 - Bloodhound - Great tool for identifying how to move laterally and gain administrator access in Active Directory networks.
