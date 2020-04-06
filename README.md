@@ -4,6 +4,8 @@ A starting point for you to begin, or grow, your cybersecurity knowledge. This h
 
 There is enough on this page to keep you busy for months. The key to successful people in cybersecurity is putting in effort. If you're lucky, you can do that through your job. Otherwise, find ways to put in the time, like podcasts during your commute, conferences with friends, etc. I do not believe you need to spend all of your time outside of your job to be great, but if you enjoy spending *some* time outside of work tinkering, it will certainly benefit you.
 
+**The most important thing to do is something. Pick one thing and start with that. Many people are interested in cybersecurity but do not take the first steps, meaning they will always be just interested (but never involved) in cybersecurity.**
+
 ## Podcasts
 
 I strongly recommend listening to podcasts on your commute and/or whenever else you have free time (like when working out)! It is a great way to learn and stay in touch with the industry/community. I use Podcast Addict for Android, but there are many apps that support podcasts.
@@ -51,6 +53,8 @@ Exploit of Hacking Team and Cayman Bank and Trust by Phineas Fisher - Write up o
 *ATT&CK* by MITRE - A common language for identifying how attackers operate, particularly useful for defenders trying to understand what gaps they have. [MITRE](https://attack.mitre.org/).
 
 ## Blogs / News
+
+I use an RSS reader, Feedly, to help keep up-to-date, rather than having to manually visit sites.
 
 - [Ars Technica](https://arstechnica.com/)
 - [Troy Hunt's Blog](https://www.troyhunt.com/)
