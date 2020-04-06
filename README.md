@@ -132,7 +132,7 @@ Nearly all these conferences post video recordings of the talks on YouTube. You 
 
 ## Tools
 
-- [Kali](https://kali.org) - Linux distribution commonly used for penetration testing and CTFs.
+- [Kali](https://kali.org) - Linux distribution commonly used for penetration testing and CTFs. See my page on [building Kali](Kali-Build.md) to work for you.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Toolset for extracting and operating on data, great for CTFs and work too.
 
 ## Certifications
