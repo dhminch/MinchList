@@ -67,6 +67,8 @@ Exploit of Hacking Team and Cayman Bank and Trust by Phineas Fisher - Write up o
 
 *The Cuckoo's Egg* by Cliff Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library.
 
+*The Woman Who Smashed Codes* by Jason Fagone - Story of Elizebeth Friedman who, along with her husband William, invented modern cryptanalysis. Her husband historically received more credit, but she was equally brilliant and had a huge impact on World Wars I and II. [Amazon](https://www.amazon.com/Woman-Who-Smashed-Codes-Outwitted/dp/0062430483) or your local library.
+
 *The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford - Story of how DevOps can improve IT and how security needs to worth with a business, not against it. [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) or your local library.
 
 *Visual Intelligence* by Amy Herman - Helps you understand how you percieve things and how to improve your ability to see little details. While it does not talk about cybersecurity at all, it still helps teach you a relevant skill. [Amazon](https://www.amazon.com/Visual-Intelligence-Sharpen-Perception-Change/dp/0544947126) or your local library.
