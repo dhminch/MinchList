@@ -40,7 +40,7 @@ Listed in order of preference, but I find them all good:
 
 Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fisher - Write up of how a hacker exploited a exploit development firm and a bank. I'm not endorsing what he/she did, but the write ups are very good and show technical detail of how real hacking works. [Hacking Team](https://www.exploit-db.com/papers/41915), [Cayman Bank and Trust](https://pastebin.com/raw/8rXhtqgr).
 
-*Cyberspace Solarium Commission* by the U.S. Government (2020) - Report on a U.S. commission's perspective and recommendations to enable the U.S. and other democracies to lead in cyberspace in the future. [Cyberspace Solarium Commission](https://www.solarium.gov/report)
+*Cyberspace Solarium Commission* by the U.S. Government (2020) - Report on a U.S. commission's perspective and recommendations to enable the U.S. and other democracies to lead in cyberspace in the future. [Cyberspace Solarium Commission](https://www.solarium.gov/report).
 
 *APT1* by FireEye/Mandiant (2013) - Original report calling out a specific Chinese military organization as a persistent threat actor. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf).
 
