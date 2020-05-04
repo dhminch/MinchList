@@ -15,7 +15,7 @@ Listed in order of preference, but if I find it worth listening to if I listed i
 ### Cybersecurity
 
 - *Risky Business*
-- *Defensive Security* - Great podcast, but less frequent right now due to health issues of the host.
+- *Defensive Security*
 - *SANS Internet Storm Center Daily*
 - *Brakeing Down Security*
 - *The Cyberlaw Podcast* by Steptoe
