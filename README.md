@@ -67,11 +67,17 @@ I use an RSS reader, Feedly, to help keep up-to-date, rather than having to manu
 
 ## Books
 
+I focus on non-fiction books, because cybersecurity is so interesting that you don't need to have ficitonal stories to make it entertaining. Most of these books are not meant to provide pure technical knowledge, but instead should help you understand all aspects of cybersecurity and open your eyes to the possible.
+
 *Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon (2015)*	by Kim Zetter - Great context and story about Stuxnet and other malware. Extremely eye-opening and is the perfect real-world example to contradict people saying "no one could do that." [Amazon](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196) or your local library.
 
 *The Cuckoo's Egg* by Cliff Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library.
 
 *The Woman Who Smashed Codes* by Jason Fagone - Story of Elizebeth Friedman who, along with her husband William, invented modern cryptanalysis. Her husband historically received more credit, but she was equally brilliant and had a huge impact on World Wars I and II. [Amazon](https://www.amazon.com/Woman-Who-Smashed-Codes-Outwitted/dp/0062430483) or your local library.
+
+*Cult of the Dead Cow* by Joseph Menn - Story of the Cult of the Dead Cow hacker group as well as L0pht and other notable hacker groups before computer security was mainstream. Provides insights into how the security community has evolved into its current form. [Amazon](https://www.amazon.com/Cult-of-Dead-Cow-Joseph-Menn-audiobook/dp/B07RX456JM/) or your local library.
+
+*Dark Territory: The Secret History of Cyber War* by Fred Kaplan - History of how cyber warfare and cyber policy has evolved as technology becomes more integrated into the essential portions of society and geopolitical conflict. [Amazon](https://www.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267/) or your local library.
 
 *The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford - Story of how DevOps can improve IT and how security needs to worth with a business, not against it. [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) or your local library.
 
