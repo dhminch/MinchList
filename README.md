@@ -8,7 +8,7 @@ There is enough on this page to keep you busy for months. The key to successful 
 
 ## Podcasts
 
-I strongly recommend listening to podcasts on your commute and/or whenever else you have free time (like when working out)! It is a great way to learn and stay in touch with the industry/community. I use Podcast Addict for Android, but there are many apps that support podcasts.
+I strongly recommend listening to podcasts on your commute and/or whenever else you have free time (like when working out)! It is a great way to learn and stay in touch with the industry/community. I use [Podcast Addict for Android](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict), but there are many apps that support podcasts.
 
 Listed in order of preference, but if I find it worth listening to if I listed it (unless otherwise noted).
 
