@@ -69,23 +69,23 @@ I use an RSS reader, Feedly, to help keep up-to-date, rather than having to manu
 
 I focus on non-fiction books, because cybersecurity is so interesting that you don't need to have ficitonal stories to make it entertaining. Most of these books are not meant to provide pure technical knowledge, but instead should help you understand all aspects of cybersecurity and open your eyes to the possible.
 
-*Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon (2015)*	by Kim Zetter - Great context and story about Stuxnet and other malware. Extremely eye-opening and is the perfect real-world example to contradict people saying "no one could do that." [Amazon](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196) or your local library.
+*Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon (2015)*	by Kim Zetter - Great context and story about Stuxnet and other malware. Extremely eye-opening and is the perfect real-world example to contradict people saying "no one could do that." [Amazon](https://smile.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196) or your local library.
 
-*The Cuckoo's Egg* by Cliff Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library.
+*The Cuckoo's Egg* by Cliff Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://smile.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library.
 
-*The Woman Who Smashed Codes* by Jason Fagone - Story of Elizebeth Friedman who, along with her husband William, invented modern cryptanalysis. Her husband historically received more credit, but she was equally brilliant and had a huge impact on World Wars I and II. [Amazon](https://www.amazon.com/Woman-Who-Smashed-Codes-Outwitted/dp/0062430483) or your local library.
+*The Woman Who Smashed Codes* by Jason Fagone - Story of Elizebeth Friedman who, along with her husband William, invented modern cryptanalysis. Her husband historically received more credit, but she was equally brilliant and had a huge impact on World Wars I and II. [Amazon](https://smile.amazon.com/Woman-Who-Smashed-Codes-Outwitted/dp/0062430483) or your local library.
 
-*Cult of the Dead Cow* by Joseph Menn - Story of the Cult of the Dead Cow hacker group as well as L0pht and other notable hacker groups before computer security was mainstream. Provides insights into how the security community has evolved into its current form. [Amazon](https://www.amazon.com/Cult-of-Dead-Cow-Joseph-Menn-audiobook/dp/B07RX456JM/) or your local library.
+*Cult of the Dead Cow* by Joseph Menn - Story of the Cult of the Dead Cow hacker group as well as L0pht and other notable hacker groups before computer security was mainstream. Provides insights into how the security community has evolved into its current form. [Amazon](https://smile.amazon.com/Cult-of-Dead-Cow-Joseph-Menn-audiobook/dp/B07RX456JM/) or your local library.
 
-*Dark Territory: The Secret History of Cyber War* by Fred Kaplan - History of how cyber warfare and cyber policy has evolved as technology becomes more integrated into the essential portions of society and geopolitical conflict. [Amazon](https://www.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267/) or your local library.
+*Dark Territory: The Secret History of Cyber War* by Fred Kaplan - History of how cyber warfare and cyber policy has evolved as technology becomes more integrated into the essential portions of society and geopolitical conflict. [Amazon](https://smile.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267/) or your local library.
 
-*The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford - Story of how DevOps can improve IT and how security needs to worth with a business, not against it. [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) or your local library.
+*The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford - Story of how DevOps can improve IT and how security needs to worth with a business, not against it. [Amazon](https://smile.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) or your local library.
 
-*Visual Intelligence* by Amy Herman - Helps you understand how you percieve things and how to improve your ability to see little details. While it does not talk about cybersecurity at all, it still helps teach you a relevant skill. [Amazon](https://www.amazon.com/Visual-Intelligence-Sharpen-Perception-Change/dp/0544947126) or your local library.
+*Visual Intelligence* by Amy Herman - Helps you understand how you percieve things and how to improve your ability to see little details. While it does not talk about cybersecurity at all, it still helps teach you a relevant skill. [Amazon](https://smile.amazon.com/Visual-Intelligence-Sharpen-Perception-Change/dp/0544947126) or your local library.
 
-*Hacking: The Art of Exploitation* by Jon Erickson - How hacking works, with a focus on memory corruption exploits. While memory corruption exploits are more difficult to use, this is still a good book to understand the foundations of exploiting a system. [Amazon](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441).
+*Hacking: The Art of Exploitation* by Jon Erickson - How hacking works, with a focus on memory corruption exploits. While memory corruption exploits are more difficult to use, this is still a good book to understand the foundations of exploiting a system. [Amazon](https://smile.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441).
 
-*The Hacker Playbook 3* by Peter Kim - Tactics for attacking as a penetration tester. [Amazon](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/).
+*The Hacker Playbook 3* by Peter Kim - Tactics for attacking as a penetration tester. [Amazon](https://smile.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/).
 
 Palo Alto Cybersecurity Cannon - Curated list of great cybersecurity books, updated yearly. [Palo Alto](https://cybercanon.paloaltonetworks.com/).
 
