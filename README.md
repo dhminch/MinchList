@@ -54,7 +54,7 @@ Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fishe
 
 ## Blogs / News
 
-I use an RSS reader, Feedly, to help keep up-to-date, rather than having to manually visit sites.
+I use an RSS reader, [Feedly](https://feedly.com/), to help keep up-to-date, rather than having to manually visit sites.
 
 - [Ars Technica](https://arstechnica.com/)
 - [Troy Hunt's Blog](https://www.troyhunt.com/)
