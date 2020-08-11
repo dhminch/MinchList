@@ -38,7 +38,7 @@ Listed in order of preference, but I find them all good:
 
 ## Whitepapers
 
-Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fisher - Write up of how a hacker exploited a exploit development firm and a bank. I'm not endorsing what he/she did, but the write ups are very good and show technical detail of how real hacking works. [Hacking Team](https://www.exploit-db.com/papers/41915), [Cayman Bank and Trust](https://pastebin.com/raw/8rXhtqgr).
+Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fisher - Write up of how a hacker exploited a exploit development firm and a bank. I'm not endorsing what he/she/they did (and some people think it's a group or nation state), but the write ups are very good and show technical detail of how real hacking works. [Hacking Team](https://www.exploit-db.com/papers/41915), [Cayman Bank and Trust](https://pastebin.com/raw/8rXhtqgr).
 
 *Cyberspace Solarium Commission* by the U.S. Government (2020) - Report on a U.S. commission's perspective and recommendations to enable the U.S. and other democracies to lead in cyberspace in the future. [Cyberspace Solarium Commission](https://www.solarium.gov/report).
 
