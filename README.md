@@ -30,7 +30,6 @@ National security frequently involves cybersecurity and privacy issues that affe
 
 Listed in order of preference, but I find them all good:
 
-- *Bombshell*
 - *The National Security Law Podcast*
 - *The Lawfare Podcast*
 - *Rational Security*
@@ -39,6 +38,10 @@ Listed in order of preference, but I find them all good:
 ## Whitepapers
 
 Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fisher - Write up of how a hacker exploited a exploit development firm and a bank. I'm not endorsing what he/she/they did (and some people think it's a group or nation state), but the write ups are very good and show technical detail of how real hacking works. [Hacking Team](https://www.exploit-db.com/papers/41915), [Cayman Bank and Trust](https://pastebin.com/raw/8rXhtqgr).
+
+*The Full Story of the Stunning RSA Hack Can Finally Be Told* (2021) by Andy Greenberg - 10 years after the infamous RSA hack, the NDAs of former employees are now expired. Great story about what happened! [Wired](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/)
+
+*The Untold Story of NotPetya, the Most Devastating Cyberattack in History* (2018) by Andy Greenberg - In-depth article about the NotPetya attack and aftermath, largely hidden from the public eye. [Wired](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/)
 
 *Cyberspace Solarium Commission* by the U.S. Government (2020) - Report on a U.S. commission's perspective and recommendations to enable the U.S. and other democracies to lead in cyberspace in the future. [Cyberspace Solarium Commission](https://www.solarium.gov/report).
 
