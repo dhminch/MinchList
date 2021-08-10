@@ -119,7 +119,7 @@ There are many popular conferences that may be worth attending. Each one has a d
 - [USENIX Security](https://www.usenix.org/conference/usenixsecurity19) - Location changes, August, research focus.
 - [RSA](https://www.rsaconference.com/) - San Fransico, typically February/March, very big conference, very business oriented.
 - [Schmoocon](https://shmoocon.org/) - Washington DC, very popular conference, hard to get tickets.
-- [Derbycon](https://www.derbycon.com/) - Very popular conference, held it's tenth and final event in September 2019.
+- [Derbycon](https://www.derbycon.com/) - Defunct conference that used to be very popular. RIP!
 
 "Hacker Summer Camp" is a term that refers to typically the last week of July or first week of August. Black Hat, BSides Las Vegas, and DEF CON all occur that same week in Las Vegas, overlapping somewhat.
 
