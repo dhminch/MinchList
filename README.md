@@ -6,6 +6,10 @@ There is enough on this page to keep you busy for months. The key to successful 
 
 **The most important thing to do is something. Pick one thing and start with that. Many people are interested in cybersecurity but do not take the first steps, meaning they will always be just interested (but never involved) in cybersecurity.**
 
+## The Community
+
+The cybersecurity community is very welcoming and open to others. People are here to learn, share knowledge, and having fun with technology. Overwhelmingly, people are interesting in sharing with others. You should always strive to learn, share with others what you know, and be kind and inclusive to everyone willing to learn too. No one should feel excluded or unsafe!
+
 ## Podcasts
 
 I strongly recommend listening to podcasts on your commute and/or whenever else you have free time (like when working out)! It is a great way to learn and stay in touch with the industry/community. I use [Podcast Addict for Android](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict), but there are many apps that support podcasts.
@@ -135,6 +139,14 @@ Nearly all these conferences post video recordings of the talks on YouTube. You 
 - [Hack the Box](https://www.hackthebox.eu/) - Lab environment with many vulnerable machines. Free, but if you pay you have a better experience. Great practice range where you spend your time learning, not fussing with VMs and infrastructure.
 - [Metasploitable 3](https://github.com/rapid7/metasploitable3) and [Metasploitable 2](https://sourceforge.net/projects/metasploitable/) - Vulnerable VMs from Rapid7. Metasploitable 3 is nice because it's a Windows target, but is more work to build.
 - [VulnHub](https://www.vulnhub.com/) - Lots of VMs, see [here](http://www.abatchy.com/2017/02/oscp-like-vulnhub-vms) and [here](https://medium.com/@a.hilton83/oscp-training-vms-hosted-on-vulnhub-com-22fa061bf6a1) for a sublist of interesting ones.
+
+## Home Lab
+
+While not strictly security related, you will likely learn a lot by building a home lab. This can be an old desktop you have laying around, or a used server you buy somewhere like eBay. I personally have an old Dell R610 running ESXi plus a pfSense router/firewall that has provided me a lot of value. Check out [/r/homelab](https://www.reddit.com/r/homelab/) for ideas! One big thing to consider up front is that the electricity cost for running anything, especially desktops and servers, 24/7/365 can add up - my R610 costs $200/year in power.
+
+[pfSense](https://www.pfsense.org/) is a free OS that is based on FreeBSD and is designed to be a router/firewall/VPN appliance. It is fantastic for segmenting your networks, locking it down with firewall rules, and filtering traffic/ads. You will learn a bit by tinkering with pfSense and end up with something way more secure than the router provided by your ISP!
+
+[ESXi aka vSphere Hypervisor](https://customerconnect.vmware.com/evalcenter?p=free-esxi7) is actually free to use. Companies typically use vSphere to manage their ESXi systems and that costs real money, but if you have a single server you can use ESXi for free and running many VMs. It's a great way to learn ESXi, which is the defacto standard for companies running their own virtualization. Another good hypervisor is [Proxmox](https://www.proxmox.com/en/) which is open-source and has more features than the free ESXi, but is far less likely to be used at places you might work.
 
 ## Tools
 
