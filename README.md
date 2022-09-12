@@ -15,14 +15,15 @@ Listed in order of preference, but if I find it worth listening to if I listed i
 ### Cybersecurity
 
 - *Risky Business*
+- *Risky Business News*
 - *Defensive Security*
 - *SANS Internet Storm Center Daily*
 - *Brakeing Down Security*
 - *The Cyberlaw Podcast* by Steptoe
 - *Darknet Diaries* - Only stories, but you can learn something from a good story!
-- *Security Weekly* (and other shows on the network) - Good discussions, but frequently overly raunchy and off-topic.
+- *Security Weekly* (and other shows on the network) - Good discussions, but frequently overly raunchy and off-topic so it's hard to recommend.
 
-In my opinion, you should avoid *Security Now*. While it is more accessible to newcomers, the hosts are frequently wrong and it is hard to know that they're wrong unless you have more experience.
+In my opinion, you should avoid *Security Now*. While it is more accessible to newcomers, the hosts are frequently wrong and it is hard to know that they're wrong until you have more experience.
 
 ### National Security
 
@@ -51,21 +52,17 @@ Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fishe
 
 ## Websites
 
-*OWASP Top Ten* by OWASP - The most common and critical web application vulnerabilities. [OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project).
+*ATT&CK* by MITRE - A common language for identifying how attackers operate, particularly useful for defenders trying to understand what gaps they have. You need to have a basic understand of what ATT&CK is because's it is a de facto standard for describing the way attackers operate. [MITRE](https://attack.mitre.org/).
 
-*ATT&CK* by MITRE - A common language for identifying how attackers operate, particularly useful for defenders trying to understand what gaps they have. [MITRE](https://attack.mitre.org/).
+*OWASP Top Ten* by OWASP - The most common and critical web application vulnerabilities. [OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project).
 
 ## Blogs / News
 
 I use an RSS reader, [Feedly](https://feedly.com/), to help keep up-to-date, rather than having to manually visit sites.
 
 - [Ars Technica](https://arstechnica.com/)
-- [Troy Hunt's Blog](https://www.troyhunt.com/)
 - [Krebs on Security](https://krebsonsecurity.com/)
-- [Pentest Blog](https://pentest.blog/)
-- [SpecterOps Blog](https://posts.specterops.io/)
-- [Cobalt Strike Blog](https://blog.cobaltstrike.com/)
-- [ropnop](https://blog.ropnop.com/)
+- [Troy Hunt's Blog](https://www.troyhunt.com/)
 - [Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/)
 
 ## Books
@@ -119,7 +116,7 @@ There are many popular conferences that may be worth attending. Each one has a d
 - [USENIX Security](https://www.usenix.org/conference/usenixsecurity19) - Location changes, August, research focus.
 - [RSA](https://www.rsaconference.com/) - San Fransico, typically February/March, very big conference, very business oriented.
 - [Schmoocon](https://shmoocon.org/) - Washington DC, very popular conference, hard to get tickets.
-- [Derbycon](https://www.derbycon.com/) - Defunct conference that used to be very popular. RIP!
+- ~~[Derbycon](https://www.derbycon.com/)~~ - Defunct conference that used to be very popular. RIP!
 
 "Hacker Summer Camp" is a term that refers to typically the last week of July or first week of August. Black Hat, BSides Las Vegas, and DEF CON all occur that same week in Las Vegas, overlapping somewhat.
 
@@ -148,9 +145,9 @@ Nearly all these conferences post video recordings of the talks on YouTube. You 
 
 My friend summed this up perfectly, so I'm just going to quote him: *Certifications help honest people validate their knowledge and skills, and help dishonest people gain an undeserving edge over others when competing for a position within a company, which in turn devalues the cert and oversaturates the job market with what would otherwise be prestigious career achievements.*
 
-I agree, most certifications are not worth that much *as a credential* because too many unqualified people have them. However, the training courses for the certifications may help you, especially if you are new to the field.
+I agree, most certifications are not worth that much *as a credential* because too many unqualified people have them. However, the training courses for the certifications may help you, especially if you are new to the field. Focus on learning as much as you can, especially if your employer is nice enough to give you time to go to a course, rather than just passing the test.
 
-Popular entry level certifications are: CompTIA's Network+ and Security+ and EC-Council's Certified Ethical Hacker (CEH). SANS provides very expensive, but good training and their certificates are better, such as GCIH. ISC2's CISSP is a more managerial level of certification and is usually what gets the most eye rolls.
+Popular entry level certifications are: CompTIA's Network+ and Security+ and EC-Council's Certified Ethical Hacker (CEH). SANS provides very expensive, but good training and their certificates are better, such as GCIH. ISC2's CISSP is a more managerial level of certification and is usually what gets the most eye rolls, but HR likes it too.
 
 Offensive Security's OSCP and OSCE are typically the most well-regarded. To pass, you take a multi-day exam in a lab environment so it is orders of magnitude more difficult than any other certification. However, Offensive Security now requires you to be subject to a lot of monitoring (software/video/audio) while taking the exam, which makes people less wild about the experience.
 
