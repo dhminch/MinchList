@@ -48,7 +48,7 @@ Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fishe
 
 *APT1* by FireEye/Mandiant (2013) - Original report calling out a specific Chinese military organization as a persistent threat actor. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf).
 
-*DBIR* by Verizon (Annual) - Annual report on the state of how criminals/APTs are getting in and what their goals are. [Verizon](http://www.verizonenterprise.com/verizon-insights-lab/dbir/).
+*DBIR* by Verizon (Annual) - Annual report on the state of how criminals/APTs are getting in and what their goals are. [Verizon](https://www.verizon.com/business/resources/reports/dbir/).
 
 ## Websites
 
@@ -108,7 +108,7 @@ There are many popular conferences that may be worth attending. Each one has a d
 
 - [BSides](http://www.securitybsides.com/w/page/12194156/FrontPage) are local conferences, frequently associated with a major city/town. Typically very affordable. There are many BSides of different sizes, so search for your own city, or start your own event.
   - [BSidesDC](http://www.bsidesdc.org/) - Washington DC event, typically October/Fall.
-  - [BSidesCharm](http://www.bsidescharm.com/) - Baltimore event, typically April/Spring.
+  - [BSidesCharm](https://www.bsidescharm.org/) - Baltimore event, typically April/Spring.
   - [BSides Las Vegas](https://www.bsideslv.org/) - Las Vegas event, typically August in the middle of Black Hat and DEF CON.
   - [BSides NoVA](http://www.bsidesnova.org/) - Northern Virginia event, typically March.
 - [DEF CON](https://defcon.org/) - Las Vegas, typically early August, very large, hacker oriented with lots of villages and hands-on activities.
@@ -116,7 +116,7 @@ There are many popular conferences that may be worth attending. Each one has a d
 - [USENIX Security](https://www.usenix.org/conference/usenixsecurity19) - Location changes, August, research focus.
 - [RSA](https://www.rsaconference.com/) - San Fransico, typically February/March, very big conference, very business oriented.
 - [Schmoocon](https://shmoocon.org/) - Washington DC, very popular conference, hard to get tickets.
-- ~~[Derbycon](https://www.derbycon.com/)~~ - Defunct conference that used to be very popular. RIP!
+- ~~Derbycon~~ - Defunct conference that used to be very popular. RIP!
 
 "Hacker Summer Camp" is a term that refers to typically the last week of July or first week of August. Black Hat, BSides Las Vegas, and DEF CON all occur that same week in Las Vegas, overlapping somewhat.
 
