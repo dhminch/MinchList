@@ -69,6 +69,14 @@ I use an RSS reader, [Feedly](https://feedly.com/), to help keep up-to-date, rat
 - [Troy Hunt's Blog](https://www.troyhunt.com/)
 - [Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/)
 
+## Newsletters
+
+Straight to your inbox! Also probably can add to your RSS reader.
+
+- [Zero Day](https://zetter.substack.com/)
+- [tl;dr sec](https://tldrsec.com/newsletter/)
+- [Seriously Risky Business](https://srslyriskybiz.substack.com/) - Same folks as the Risky Business podcast, so I recommend either the podcast or newsletter, but not both due to overlap.
+
 ## Books
 
 I focus on non-fiction books, because cybersecurity is so interesting that you don't need to have ficitonal stories to make it entertaining. Most of these books are not meant to provide pure technical knowledge, but instead should help you understand all aspects of cybersecurity and open your eyes to the possible.
