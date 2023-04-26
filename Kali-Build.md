@@ -22,7 +22,7 @@ This is a matter of personal taste, but there are packages and 3rd party tools t
 
 ### Packages
 
-`sudo apt update && sudo apt install -y aircrack-ng atftpd automake autotools-dev beef-xss bless bloodhound brasero bridge-utils dhcpdump ettercap-graphical exfat-fuse file-roller filezilla filezilla-common freetds-bin freetds-common freetds-dev freerdp2-x11 gdebi gedit gobuster gparted gvfs-fuse htop ipv6toolkit isc-dhcp-server libical-dev libncurses5 libpam-winbind libpam0g libreoffice linux-libc-dev mimikatz ncat nethogs netsed p7zip p7zip-rar powersploit pure-ftpd rar responder rinetd screen seclists sqsh ssdeep sshfs sshpass terminator thc-ipv6 tmux unace unrar unzip usbip veil veil-catapult veil-evasion webshells wmis zip`
+`sudo apt update && sudo apt install -y aircrack-ng atftpd automake autotools-dev beef-xss bless bloodhound brasero bridge-utils cyberchef dhcpdump ettercap-graphical exfat-fuse file-roller filezilla filezilla-common freetds-bin freetds-common freetds-dev freerdp2-x11 gdebi gedit ghidra gobuster gparted gvfs-fuse htop ipv6toolkit isc-dhcp-server libical-dev libncurses5 libpam-winbind libpam0g libreoffice linux-libc-dev mimikatz ncat nethogs netsed p7zip p7zip-rar powersploit pure-ftpd rar responder rinetd screen seclists sqsh ssdeep sshfs sshpass terminator thc-ipv6 tmux unace unrar unzip usbip veil veil-catapult veil-evasion webshells wmis zip`
 
 Some noteable items:
 - Bloodhound - Great tool for identifying how to move laterally and gain administrator access in Active Directory networks.
@@ -41,8 +41,8 @@ Some noteable items:
 
 ### Other Free Goodies
 
-- [CyberChef](https://github.com/gchq/CyberChef) - Analysis toolkit that lets you rapidly prototype
-- [Ghidra](https://ghidra-sre.org/) - Free, robust RE toolkit with way more support than IDA Free
+- [CyberChef](https://github.com/gchq/CyberChef) - Analysis toolkit that lets you rapidly prototype, now installed above with apt!
+- [Ghidra](https://ghidra-sre.org/) - Free, robust RE toolkit with way more support than IDA Free, now installed above with apt!
 - Powershell Empire - Powershell-based C2 framework
   - Install: `git clone https://github.com/EmpireProject/Empire.git`
   - Setup: `setup/install.sh`
