@@ -40,7 +40,11 @@ Listed in order of preference, but I find them all good:
 - *Rational Security*
 - *War on the Rocks*
 
-## Whitepapers
+## Whitepapers / Blogs
+
+*Misconceptions, Battle Scars, & Growth* by Tim MalcomVetter - Post about how infosec has changed over the years and misconceptions about what "the problem" is in infosec. [Medium](https://malcomvetter.medium.com/misconceptions-battle-scars-growth-40a540b073fa).
+
+*Responsible Red Teams* and *Safe Red Team Infrastructure* by Tim MalcomVetter - Posts about how to be a responsible Red Team and how to build your infrastructure in a way that enables operations and protects your clients' data. [Medium #1](https://malcomvetter.medium.com/responsible-red-teams-1c6209fd43cc), [Medium #2](https://malcomvetter.medium.com/safe-red-team-infrastructure-c5d6a0f13fac).
 
 Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fisher - Write up of how a hacker exploited a exploit development firm and a bank. I'm not endorsing what he/she/they did (and some people think it's a group or nation state), but the write ups are very good and show technical detail of how real hacking works. [Hacking Team](https://www.exploit-db.com/papers/41915), [Cayman Bank and Trust](https://pastebin.com/raw/8rXhtqgr).
 
