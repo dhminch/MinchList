@@ -107,12 +107,13 @@ Palo Alto Cybersecurity Cannon - Curated list of great cybersecurity books, upda
 
 ## Movies
 
-For the fun and hacker culture points:
+For the fun and hacker culture points. I have never claimed they were accurate or realistic.
 
 - [Hackers](https://www.imdb.com/title/tt0113243/)
 - [Sneakers](https://www.imdb.com/title/tt0105435/)
 - [Swordfish](https://www.imdb.com/title/tt0244244/)
 - [War Games](https://www.imdb.com/title/tt0086567/)
+- [The Net](https://www.imdb.com/title/tt0113957/)
 
 ## Online Training
 
