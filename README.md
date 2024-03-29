@@ -135,6 +135,13 @@ There are many popular conferences that may be worth attending. Each one has a d
 
 Nearly all these conferences post video recordings of the talks on YouTube. You can look through old conference schedules to see what seems interesting and then search YouTube for the talk title.
 
+## Meetups / Hacker Space / Maker Space
+
+Many major cities have some sort of cybersecurity group meet up, hacker space, or maker space. This can be a good way to get exposure to different topics, network, and tinker.
+
+- [Unallocated Space (Baltimore)](https://www.unallocatedspace.org/)
+- [NoVA Hackers (Northern Virginia)](https://novahackers.com/)
+
 ## Capture the Flag (CTF) Events
 - [Holiday Hack Challenge](https://holidayhackchallenge.com/past-challenges/) - SANS runs a CTF every December for prizes, but the previous challenges are still running and fun.
 - Many conferences and universities have CTFs, some require you to be there, others are remote. [CTF Time](https://ctftime.org/) has a schedule of many CTFs going on worldwide.
