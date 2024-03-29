@@ -20,9 +20,7 @@ Listed in order of preference, but if I find it worth listening to if I listed i
 
 - *Risky Business*
 - *Risky Business News*
-- *Defensive Security*
 - *SANS Internet Storm Center Daily*
-- *Brakeing Down Security*
 - *The Cyberlaw Podcast* by Steptoe
 - *Darknet Diaries* - Only stories, but you can learn something from a good story!
 - *Security Weekly* (and other shows on the network) - Good discussions, but frequently overly raunchy and off-topic so it's hard to recommend.
