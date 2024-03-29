@@ -101,8 +101,6 @@ I focus on non-fiction books, because cybersecurity is so interesting that you d
 
 *The Hacker Playbook 3* by Peter Kim - Tactics for attacking as a penetration tester. [Amazon](https://smile.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/).
 
-Palo Alto Cybersecurity Cannon - Curated list of great cybersecurity books, updated yearly. [Palo Alto](https://cybercanon.paloaltonetworks.com/).
-
 ## Movies
 
 For the fun and hacker culture points. I have never claimed they were accurate or realistic.
