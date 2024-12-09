@@ -2,7 +2,7 @@
 
 A starting point for you to begin, or grow, your cybersecurity knowledge. This has a US-focus, with some specific details for the Baltimore/DC area.
 
-There is enough on this page to keep you busy for months. The key to successful people in cybersecurity is putting in effort. If you're lucky, you can do that through your job. Otherwise, find ways to put in the time, like podcasts during your commute, conferences with friends, etc. I do not believe you need to spend all of your time outside of your job to be great, but if you enjoy spending *some* time outside of work tinkering, it will certainly benefit you.
+There is enough on this page to keep you busy for months. The key to successful people in cybersecurity is putting in effort and always be learning. If you're lucky, you can do that through your job. Otherwise, find ways to put in the time, like podcasts during your commute, conferences with friends, etc. I do not believe you need to spend all of your time outside of your job to be great, but if you enjoy spending *some* time outside of work tinkering, it will certainly benefit you.
 
 **The most important thing to do is something. Pick one thing and start with that. Many people are interested in cybersecurity but do not take the first steps, meaning they will always be just interested (but never involved) in cybersecurity.**
 
@@ -19,9 +19,9 @@ Listed in order of preference, but if I find it worth listening to if I listed i
 ### Cybersecurity
 
 - *Risky Business*
+- *Defensive Security Podcast*
 - *Risky Business News*
 - *SANS Internet Storm Center Daily*
-- *The Cyberlaw Podcast* by Steptoe
 - *Darknet Diaries* - Only stories, but you can learn something from a good story!
 - *Security Weekly* (and other shows on the network) - Good discussions, but frequently overly raunchy and off-topic so it's hard to recommend.
 
@@ -33,7 +33,7 @@ National security frequently involves cybersecurity and privacy issues that affe
 
 Listed in order of preference, but I find them all good:
 
-- *The National Security Law Podcast*
+- *The National Security Law Podcast* - Fantastic, but episodes have been intermittent
 - *The Lawfare Podcast*
 - *Rational Security*
 - *War on the Rocks*
@@ -54,9 +54,7 @@ Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fishe
 
 *Future Possibilities: Data, Hardware, Software, and People* by Grace Hopper (1982) - Recently discovered NSA recording of computing legend RDML Grace Hopper giving a lecture on computing and security. It's incredibly relevant 40 years later and also just a really neat part of history. [YouTube Part 1](https://www.youtube.com/watch?v=si9iqF5uTFk) [YouTube Part 2](https://www.youtube.com/watch?v=AW7ZHpKuqZg) [Podcast Part 1](https://directory.libsyn.com/episode/index/id/34108311) [Podcast Part 2](https://directory.libsyn.com/episode/index/id/34289655)
 
-*APT1* by FireEye/Mandiant (2013) - Original report calling out a specific Chinese military organization as a persistent threat actor. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf).
-
-*DBIR* by Verizon (Annual) - Annual report on the state of how criminals/APTs are getting in and what their goals are. [Verizon](https://www.verizon.com/business/resources/reports/dbir/).
+*APT1* by FireEye/Mandiant (2013) - Original report calling out a specific Chinese military organization as a persistent threat actor. This may seem silly nowadays, but this was the first report pointing the finger at China's rampant hacking campaigns and was a big deal. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf).
 
 ## Websites
 
@@ -145,6 +143,7 @@ Many major cities have some sort of cybersecurity group meet up, hacker space, o
 - [NoVA Hackers (Northern Virginia)](https://novahackers.com/)
 
 ## Capture the Flag (CTF) Events
+
 - [Holiday Hack Challenge](https://holidayhackchallenge.com/past-challenges/) - SANS runs a CTF every December for prizes, but the previous challenges are still running and fun.
 - Many conferences and universities have CTFs, some require you to be there, others are remote. [CTF Time](https://ctftime.org/) has a schedule of many CTFs going on worldwide.
 
