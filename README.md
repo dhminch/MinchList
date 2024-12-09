@@ -52,6 +52,8 @@ Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fishe
 
 *Cyberspace Solarium Commission* by the U.S. Government (2020) - Report on a U.S. commission's perspective and recommendations to enable the U.S. and other democracies to lead in cyberspace in the future. [Cyberspace Solarium Commission](https://www.solarium.gov/report).
 
+*Future Possibilities: Data, Hardware, Software, and People* by Grace Hopper (1982) - Recently discovered NSA recording of computing legend RDML Grace Hopper giving a lecture on computing and security. It's incredibly relevant 40 years later and also just a really neat part of history. [YouTube Part 1](https://www.youtube.com/watch?v=si9iqF5uTFk) [YouTube Part 2](https://www.youtube.com/watch?v=AW7ZHpKuqZg) [Podcast Part 1](https://directory.libsyn.com/episode/index/id/34108311) [Podcast Part 2](https://directory.libsyn.com/episode/index/id/34289655)
+
 *APT1* by FireEye/Mandiant (2013) - Original report calling out a specific Chinese military organization as a persistent threat actor. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf).
 
 *DBIR* by Verizon (Annual) - Annual report on the state of how criminals/APTs are getting in and what their goals are. [Verizon](https://www.verizon.com/business/resources/reports/dbir/).
