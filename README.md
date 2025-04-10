@@ -120,7 +120,7 @@ For the fun and hacker culture points. I have never claimed they were accurate o
 There are many popular conferences that may be worth attending. Each one has a different feel - some are more business oriented (i.e., vendors selling products) and others are more hacker oriented (i.e., focus is on the tech and hacking/defending things). Both are good and necessary, just different vibes.
 
 - [BSides](http://www.securitybsides.com/w/page/12194156/FrontPage) are local conferences, frequently associated with a major city/town. Typically very affordable. There are many BSides of different sizes, so search for your own city, or start your own event.
-  - [BSidesDC](http://www.bsidesdc.org/) - Washington DC event, typically October/Fall.
+  - ~~[BSidesDC](http://www.bsidesdc.org/)~~ - Washington DC event, defunct, typically October/Fall.
   - [BSidesCharm](https://www.bsidescharm.org/) - Baltimore event, typically April/Spring.
   - [BSides Las Vegas](https://www.bsideslv.org/) - Las Vegas event, typically August in the middle of Black Hat and DEF CON.
   - [BSides NoVA](http://www.bsidesnova.org/) - Northern Virginia event, typically March.
@@ -128,7 +128,7 @@ There are many popular conferences that may be worth attending. Each one has a d
 - [Black Hat](https://www.blackhat.com/) - Las Vegas, typically early August, very business oriented.
 - [USENIX Security](https://www.usenix.org/conference/usenixsecurity19) - Location changes, August, research focus.
 - [RSA](https://www.rsaconference.com/) - San Fransico, typically February/March, very big conference, very business oriented.
-- [Schmoocon](https://shmoocon.org/) - Washington DC, very popular conference, hard to get tickets.
+- ~~[Schmoocon](https://shmoocon.org/)~~ - Washington DC, defunct, very popular conference, hard to get tickets.
 - ~~Derbycon~~ - Defunct conference that used to be very popular. RIP!
 
 "Hacker Summer Camp" is a term that refers to typically the last week of July or first week of August. Black Hat, BSides Las Vegas, and DEF CON all occur that same week in Las Vegas, overlapping somewhat.
