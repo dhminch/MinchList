@@ -54,7 +54,7 @@ Exploit of Hacking Team (2016) and Cayman Bank and Trust (2019) by Phineas Fishe
 
 *Future Possibilities: Data, Hardware, Software, and People* by Grace Hopper (1982) - Recently discovered NSA recording of computing legend RDML Grace Hopper giving a lecture on computing and security. It's incredibly relevant 40 years later and also just a really neat part of history. [YouTube Part 1](https://www.youtube.com/watch?v=si9iqF5uTFk) [YouTube Part 2](https://www.youtube.com/watch?v=AW7ZHpKuqZg) [Podcast Part 1](https://directory.libsyn.com/episode/index/id/34108311) [Podcast Part 2](https://directory.libsyn.com/episode/index/id/34289655)
 
-*APT1* by FireEye/Mandiant (2013) - Original report calling out a specific Chinese military organization as a persistent threat actor. This may seem silly nowadays, but this was the first report pointing the finger at China's rampant hacking campaigns and was a big deal. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf).
+*APT1* by FireEye/Mandiant (2013) - Original report calling out a specific Chinese military organization as a persistent threat actor. This may seem silly nowadays, but this was the first report pointing the finger at China's rampant hacking campaigns and was a big deal. [FireEye](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf). Also interesting is an interview with one of the authors which helps give context about the report at that point in time. [Zero Day](https://www.zetter-zeroday.com/how-the-infamous-apt-1-report-exposing-chinas-pla-hackers-came-to-be/).
 
 ## Websites
 
