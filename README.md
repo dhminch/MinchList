@@ -10,6 +10,12 @@ There is enough on this page to keep you busy for months. The key to successful 
 
 The cybersecurity community is very welcoming and open to others. People are here to learn, share knowledge, and having fun with technology. Overwhelmingly, people are interesting in sharing with others. You should always strive to learn, share with others what you know, and be kind and inclusive to everyone willing to learn too. No one should feel excluded or unsafe!
 
+## AI
+
+AI/LLMs are changing the cybersecurity industry. It's moving very quickly and hard to keep up with. I'm not going to try and predict the future, but I do think it's worth having some level of exposure to these models so you can showcase how they enhance (not replace) your abilities. There is a big difference between asking the model to do something you don't understand versus asking the model to do something you could do with in day and have it do it in 10 minutes.
+
+If your school or employer does not provide you access with frontier models, I highly recommend you pay for the cheapest subscription that gets you agentic access. This is much more capable than any free chats with free models - it's not the same thing. Currently, this means [Anthropic's Claude Pro plan](https://claude.com/pricing) to use Claude Code, or [OpenAI's Plus plan](https://chatgpt.com/codex/pricing/) to use Codex.
+
 ## Podcasts
 
 I strongly recommend listening to podcasts on your commute and/or whenever else you have free time (like when working out)! It is a great way to learn and stay in touch with the industry/community. I use [Podcast Addict for Android](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict), but there are many apps that support podcasts.
@@ -18,14 +24,13 @@ Listed in order of preference, but if I find it worth listening to if I listed i
 
 ### Cybersecurity
 
-- *Risky Business*
+- *Risky Business* - There's the weekly main podcast, plus the Features and Stories feeds that are also great.
 - *Defensive Security Podcast*
-- *Risky Business News*
 - *SANS Internet Storm Center Daily*
 - *Darknet Diaries* - Only stories, but you can learn something from a good story!
 - *Security Weekly* (and other shows on the network) - Good discussions, but frequently overly raunchy and off-topic so it's hard to recommend.
 
-In my opinion, you should avoid *Security Now*. While it is more accessible to newcomers, the hosts are frequently wrong and it is hard to know that they're wrong until you have more experience.
+In my opinion, you should avoid *Security Now*. While it is more accessible to newcomers, I don't think it matches the quality of the above podcasts.
 
 ### National Security
 
@@ -37,6 +42,7 @@ Listed in order of preference, but I find them all good:
 - *The Lawfare Podcast*
 - *Rational Security*
 - *War on the Rocks*
+- *ChinaTalk* - Honestly not really pure China anymore but it still talks a lot about global security issues including AI/cyber
 
 ## Whitepapers / Blogs
 
@@ -83,11 +89,11 @@ Straight to your inbox! Also probably can add to your RSS reader.
 
 I focus on non-fiction books, because cybersecurity is so interesting that you don't need to have ficitonal stories to make it entertaining. Most of these books are not meant to provide pure technical knowledge, but instead should help you understand all aspects of cybersecurity and open your eyes to the possible.
 
-*Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon (2015)*	by Kim Zetter - Great context and story about Stuxnet and other malware. Extremely eye-opening and is the perfect real-world example to contradict people saying "no one could do that." [Amazon](https://smile.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196) or your local library.
-
-*The Cuckoo's Egg* by Cliff Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://smile.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library.
+*The Cuckoo's Egg* by Cliff Stoll - Story of an intrusion into US Air Force networks decades ago, yet most of the problems are still relevant. [Amazon](https://smile.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) or your local library. I re-read this again in 2026 and it was still great!
 
 *The Woman Who Smashed Codes* by Jason Fagone - Story of Elizebeth Friedman who, along with her husband William, invented modern cryptanalysis. Her husband historically received more credit, but she was equally brilliant and had a huge impact on World Wars I and II. [Amazon](https://smile.amazon.com/Woman-Who-Smashed-Codes-Outwitted/dp/0062430483) or your local library.
+
+*Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon (2015)*	by Kim Zetter - Great context and story about Stuxnet and other malware. Extremely eye-opening and is the perfect real-world example to contradict people saying "no one could do that." [Amazon](https://smile.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196) or your local library.
 
 *Cult of the Dead Cow* by Joseph Menn - Story of the Cult of the Dead Cow hacker group as well as L0pht and other notable hacker groups before computer security was mainstream. Provides insights into how the security community has evolved into its current form. [Amazon](https://smile.amazon.com/Cult-of-Dead-Cow-Joseph-Menn-audiobook/dp/B07RX456JM/) or your local library.
 
@@ -120,18 +126,18 @@ For the fun and hacker culture points. I have never claimed they were accurate o
 There are many popular conferences that may be worth attending. Each one has a different feel - some are more business oriented (i.e., vendors selling products) and others are more hacker oriented (i.e., focus is on the tech and hacking/defending things). Both are good and necessary, just different vibes.
 
 - [BSides](http://www.securitybsides.com/w/page/12194156/FrontPage) are local conferences, frequently associated with a major city/town. Typically very affordable. There are many BSides of different sizes, so search for your own city, or start your own event.
-  - ~~[BSidesDC](http://www.bsidesdc.org/)~~ - Washington DC event, defunct, typically October/Fall.
   - [BSidesCharm](https://www.bsidescharm.org/) - Baltimore event, typically April/Spring.
   - [BSides Las Vegas](https://www.bsideslv.org/) - Las Vegas event, typically August in the middle of Black Hat and DEF CON.
   - [BSides NoVA](http://www.bsidesnova.org/) - Northern Virginia event, typically March.
-- [DEF CON](https://defcon.org/) - Las Vegas, typically early August, very large, hacker oriented with lots of villages and hands-on activities.
+  - ~~[BSidesDC](http://www.bsidesdc.org/)~~ - Washington DC event, defunct, typically October/Fall.
+- [DEF CON](https://defcon.org/) - Las Vegas, typically early August, huge, hacker oriented with lots of villages and hands-on activities.
 - [Black Hat](https://www.blackhat.com/) - Las Vegas, typically early August, very business oriented.
 - [USENIX Security](https://www.usenix.org/conference/usenixsecurity19) - Location changes, August, research focus.
 - [RSA](https://www.rsaconference.com/) - San Fransico, typically February/March, very big conference, very business oriented.
 - ~~[Schmoocon](https://shmoocon.org/)~~ - Washington DC, defunct, very popular conference, hard to get tickets.
 - ~~Derbycon~~ - Defunct conference that used to be very popular. RIP!
 
-"Hacker Summer Camp" is a term that refers to typically the last week of July or first week of August. Black Hat, BSides Las Vegas, and DEF CON all occur that same week in Las Vegas, overlapping somewhat.
+"Hacker Summer Camp" is a term that refers to typically the first week of August. Black Hat, BSides Las Vegas, and DEF CON all occur that same week in Las Vegas, overlapping somewhat.
 
 Nearly all these conferences post video recordings of the talks on YouTube. You can look through old conference schedules to see what seems interesting and then search YouTube for the talk title.
 
@@ -159,11 +165,13 @@ Many major cities have some sort of cybersecurity group meet up, hacker space, o
 
 ## Home Lab
 
-While not strictly security related, you will likely learn a lot by building a home lab. This can be an old desktop you have laying around, or a used server you buy somewhere like [eBay](https://www.ebay.com/str/savemyserver). I personally have an old Dell R630 running ESXi plus a pfSense router/firewall that has provided me a lot of value. Check out [/r/homelab](https://www.reddit.com/r/homelab/) for ideas! One big thing to consider up front is that the electricity cost for running anything, especially desktops and servers, 24/7/365 can add up - my R630 costs $200/year in power.
+While not strictly security related, you will likely learn a lot by building a home lab. This can be an old desktop you have laying around, or a used server you buy somewhere like [eBay](https://www.ebay.com/str/savemyserver). I personally have an old Dell R630 running Proxmox plus a pfSense router/firewall that has provided me a lot of value. Check out [/r/homelab](https://www.reddit.com/r/homelab/) for ideas! One big thing to consider up front is that the electricity cost for running anything, especially desktops and servers, 24/7/365 can add up - my R630 costs $200/year in power.
 
 [pfSense](https://www.pfsense.org/) is a free OS that is based on FreeBSD and is designed to be a router/firewall/VPN appliance. It is fantastic for segmenting your networks, locking it down with firewall rules, and filtering traffic/ads. You will learn a bit by tinkering with pfSense and end up with something way more secure than the router provided by your ISP!
 
-[ESXi aka vSphere Hypervisor](https://customerconnect.vmware.com/downloads/get-download?downloadGroup=ESXI800) is actually free to use (-ish, Broadcom bought VMware and is making it harder). Companies typically use vSphere to manage their ESXi systems and that costs real money, but if you have a single server you can use ESXi for free and running many VMs. It's a great way to learn ESXi, which is the defacto standard for companies running their own virtualization. Another good hypervisor is [Proxmox](https://www.proxmox.com/en/) which is open-source and has more features than the free ESXi, but is less likely to be used at places you might work. However, with the purchase of VMware by Broadcom, this is becoming more popular, especially for home labs.
+[Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) is a free hypervisor that is based on Debian Linux and QEMU. It's getting a lot more popular since the implosion of VMware (next paragraph).
+
+VMware ESXi aka vSphere Hypervisor was actually free to use until Broadcom bought VMware and is now holding ESXi customers hostage and rapidly jacking up the renewal costs. The free version is basically dead and while it was nice to learn ESXi since that was the most common system to find in corporate environments, that's changing as companies panic and transition to other vendors.
 
 ## Tools
 
