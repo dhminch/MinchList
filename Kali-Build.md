@@ -24,14 +24,12 @@ This is a matter of personal taste, but there are packages and 3rd party tools t
 
 This is a big install but that's useful especially if you're in an offline environment. You can certainly do a smaller install by picking specific tools, but the `kali-linux-large` metapackage gets quite a lot for you.
 
-`sudo apt update && sudo apt install -y kali-linux-large atftpd automake autotools-dev beef-xss bless bloodhound brasero bridge-utils cyberchef dhcpdump ettercap-graphical exfat-fuse file-roller filezilla filezilla-common freetds-bin freetds-common freetds-dev freerdp2-x11 gdebi gedit ghidra gobuster gparted gvfs-fuse htop ipv6toolkit isc-dhcp-server libical-dev libncurses5 libpam-winbind libpam0g libreoffice linux-libc-dev mimikatz ncat nethogs netsed p7zip p7zip-rar powersploit pure-ftpd rar responder rinetd screen seclists sqsh ssdeep sshfs sshpass terminator thc-ipv6 tmux unace unrar unzip usbip veil veil-catapult veil-evasion webshells wmis zip`
+`sudo apt update && sudo apt install -y kali-linux-large automake autotools-dev bloodhound cyberchef gedit ghidra htop libreoffice ncat pure-ftpd rar sshfs sshpass terminator unrar unzip zip`
 
 Some noteable items:
 - Bloodhound - Great tool for identifying how to move laterally and gain administrator access in Active Directory networks.
 - exfat - Filesystem that is nice to install because Windows, OS X, and Kali can all read/write it and there's no technical limits (like small max filesize with FAT) that will slow you down.
-- mimikatz - Popular credential extractor for Windows targets.
 - SecLists - Good lists for scanners and password guessing
-- Veil - PSP evasion toolkit
 
 ### Browser Plugins
 
